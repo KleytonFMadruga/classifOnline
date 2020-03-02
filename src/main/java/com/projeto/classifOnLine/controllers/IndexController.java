@@ -1,4 +1,4 @@
-package com.projeto.classifOnLine3.controllers;
+package com.projeto.classifOnLine.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

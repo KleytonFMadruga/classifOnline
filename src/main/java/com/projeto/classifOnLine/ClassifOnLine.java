@@ -1,14 +1,14 @@
-package com.projeto.classifOnLine3;
+package com.projeto.classifOnLine;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class ClassifOnLine3 {
+public class ClassifOnLine {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ClassifOnLine3.class, args);
+		SpringApplication.run(ClassifOnLine.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.projeto.classifOnLine3.model;
+package com.projeto.classifOnLine.model;
 
 
 import java.io.Serializable;

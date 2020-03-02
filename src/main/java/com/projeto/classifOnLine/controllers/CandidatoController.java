@@ -1,12 +1,12 @@
-package com.projeto.classifOnLine3.controllers;
+package com.projeto.classifOnLine.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.projeto.classifOnLine3.model.Candidato;
-import com.projeto.classifOnLine3.repository.CandidatoRepository;
+import com.projeto.classifOnLine.model.Candidato;
+import com.projeto.classifOnLine.repository.CandidatoRepository;
 
 @Controller
 public class CandidatoController {
